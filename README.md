@@ -1,11 +1,11 @@
 HW-1
 Medvedchuk Aleksandr
 
+1. git clone https://github.com/medai/ec2018-hw1.git
 
-1. npm install
+2. npm install
 
-2. ng serve
+3. ng serve
 
-3. http://localhost:4200/
-
+4. http://localhost:4200/
 
